@@ -1,2 +1,5 @@
 # GreenCampus-AI
 GreenCampus AI: An Intelligent Energy Consumption Prediction and Sustainability Advisor
+
+
+**GreenCampus AI** is an AI-powered sustainability platform designed to help educational institutions monitor and optimize their energy consumption. The solution uses machine learning algorithms (Linear Regression and Random Forest Regressor) to analyze historical energy consumption and environmental sensor data, predict future electricity usage, and estimate the corresponding carbon footprint. Based on the predicted energy consumption, the system generates intelligent sustainability recommendations, such as optimizing appliance usage, adopting energy-efficient practices, and reducing unnecessary power consumption. The application is developed using Python and deployed as an interactive Streamlit web application, enabling users to visualize energy trends, compare model performance, and receive real-time sustainability insights. By combining predictive analytics, data visualization, and AI-driven decision support, the solution promotes energy efficiency, reduces environmental impact, and supports informed decision-making for sustainable campus management.
